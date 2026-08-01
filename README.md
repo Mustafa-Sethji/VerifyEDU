@@ -182,9 +182,10 @@ The combined score is what powers the per-student "understanding level" shown in
 
 ## 👥 Team
 
-Team name- TASK
-Team name-  Mustafa Sethjiwala
-            Subham Kumar Gupta
+Team name- TASK //
+
+Team name-  Mustafa Sethjiwala,
+            Subham Kumar Gupta,
             Sneha Arya
 
 ## 🏆 Built For

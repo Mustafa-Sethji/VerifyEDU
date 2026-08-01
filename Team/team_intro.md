@@ -4,7 +4,7 @@
 
 **College:** National Institute of Technology, Tiruchirappalli (NIT Trichy)
 **Program:** MCA, 2028 Batch
-**Team Name:** VerifyEdu
+**Team Name:** TASK
 
 ---
 
